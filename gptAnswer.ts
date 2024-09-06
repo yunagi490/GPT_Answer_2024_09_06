@@ -1,3 +1,9 @@
+// Type: TypeScript
+/**
+ * @version 1.0.0
+ * @history : 2024-09-06 14:24
+ */
+
 /**
  * TypeScriptでプロパティの値の末尾が"99"だった場合はfalseを返す
  */
